@@ -1,5 +1,5 @@
 {
-  "name": "kenyroot/laravel-tilda",
+  "name": "khorevnikita/laravel-tilda",
   "require": {
     "php": "8.*",
     "laravel/framework": "^8.*"
