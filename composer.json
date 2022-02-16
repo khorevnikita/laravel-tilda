@@ -2,9 +2,8 @@
   "name": "khorevnikita/laravel-tilda",
   "require": {
     "php": "8.*",
-    "laravel/framework": "^8.*"
+    "laravel/framework": "^8.0"
   },
-
   "require-dev": {},
   "autoload": {
     "psr-4": {
