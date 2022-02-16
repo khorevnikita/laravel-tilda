@@ -1,8 +1,8 @@
 {
   "name": "kenyroot/laravel-tilda",
   "require": {
-    "php": "7.*",
-    "laravel/framework": "^7.*"
+    "php": "8.*",
+    "laravel/framework": "^8.*"
   },
 
   "require-dev": {},
